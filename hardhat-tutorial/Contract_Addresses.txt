@@ -1,0 +1,2 @@
+FakeNFTMarketplace deployed to:  0xe5788D4944e5b10a10eDD5179d9a68788fa7163E
+CryptoDevsDAO deployed to:  0xDc464dbDF4310FEE746737918e67Be29042b2d8A
